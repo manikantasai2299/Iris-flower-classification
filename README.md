@@ -1,0 +1,5 @@
+# Iris flower classification :
+
+The iris flower classification project is a well-known example in the field of machine learning and is often referred to as the "Hello World" of machine learning due to its popularity among beginners. The dataset comprises numerical attributes, which makes it a suitable choice for those starting to learn about supervised machine learning algorithms and data manipulation. Additionally, the dataset is small and can be easily handled in-memory without the need for complex transformations or scaling. The simplicity of the iris dataset and its practical relevance to real-world problems make it a valuable tool for experimentation and teaching in the field of machine learning. The objective of the project is to classify iris flowers into one of three species (Setosa, Versicolor, or Virginica) based on measurements of their sepal and petal length and width. The dataset consists of 150 instances, with 50 instances for each species.
+
+Dataset link : http://archive.ics.uci.edu/ml/datasets/Iris
